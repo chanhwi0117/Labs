@@ -1,0 +1,37 @@
+CMPUT 229 - Computer Organization and Architecture I
+Lab 1: RPN Calculator
+
+Student Name:Chan H Gim
+
+
+Question 1:hello risc-v
+
+
+Question 2:0x1001001a
+
+
+Question 3:
+
+
+Question 4:
+
+
+Question 5:
+
+
+Question 6:
+
+
+Question 7:
+
+
+Question 8:
+
+
+Question 9:
+
+
+Question 10:
+
+
+

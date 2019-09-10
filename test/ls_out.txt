@@ -1,0 +1,3 @@
+total 0
+0 -rw-rw-rw- 1 chan chan 12 Sep 10 04:52 ls_com.txt
+0 -rw-rw-rw- 1 chan chan  0 Sep 10 04:58 ls_out.txt
